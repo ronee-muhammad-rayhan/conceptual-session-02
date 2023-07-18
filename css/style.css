@@ -45,8 +45,14 @@ nav {
     width: 50%;
     display: flex;
     justify-content: space-between;
+    align-items: center;
 }
 
 .nav-items-container a {
     text-decoration: none;
+}
+
+.login-btn {
+    background-color: #e893cf;
+    padding: 10px 20px;
 }
