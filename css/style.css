@@ -74,3 +74,11 @@ nav {
     max-width: 1000px;
     min-height: 50px;
 }
+
+.banner-text {
+    border: 1px solid green;
+}
+
+.banner-img {
+    border: 1px solid blue;
+}
