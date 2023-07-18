@@ -95,4 +95,5 @@ nav {
     background-image: linear-gradient(to bottom, red, blue);
     color: transparent;
     -webkit-background-clip: text;
+    font-size: 50px;
 }
