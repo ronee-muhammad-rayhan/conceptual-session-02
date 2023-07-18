@@ -54,7 +54,7 @@ nav {
     color: white;
 }
 
-.login-btn {
+.nav-items-container .login-btn {
     background-color: #e893cf;
     padding: 10px 20px;
     font-weight: 700;
