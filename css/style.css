@@ -14,12 +14,12 @@
 
 .logo-container img {
     border: 1px solid crimson;
-    width: 50px;
+    width: 100px;
+    object-fit: cover;
 }
 
 .logo-container p {
     font-size: 40px;
-    width: 300px;
 }
 
 .nav-items-container {
