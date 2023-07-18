@@ -93,4 +93,6 @@ nav {
 
 .banner-text h1 {
     background-image: linear-gradient(to bottom, red, blue);
+    color: transparent;
+    -webkit-background-clip: text;
 }
