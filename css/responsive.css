@@ -6,4 +6,8 @@
     .nav-items-container {
         flex-direction: column;
     }
+
+    .nav-items-container a {
+        margin-top: 20px;
+    }
 }
