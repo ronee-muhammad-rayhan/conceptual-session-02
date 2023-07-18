@@ -92,7 +92,7 @@ nav {
 }
 
 .banner-text h1 {
-    background-image: linear-gradient(to bottom, red, blue);
+    background-image: linear-gradient(to bottom, #9376e0, #e893cf);
     color: transparent;
     -webkit-background-clip: text;
     font-size: 50px;
