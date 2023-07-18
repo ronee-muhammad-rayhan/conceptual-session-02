@@ -61,3 +61,8 @@ nav {
     border-radius: 5px;
     color: black;
 }
+
+.login-btn i {
+    color: #9376e0;
+    margin-left: 10px;
+}
