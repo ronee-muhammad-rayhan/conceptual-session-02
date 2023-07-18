@@ -10,4 +10,8 @@
     .nav-items-container a {
         margin-top: 20px;
     }
+
+    .login-btn {
+        width: 100%;
+    }
 }
