@@ -9,10 +9,16 @@
 
 .logo-container {
     border: 1px solid green;
+    display: flex;
 }
 
 .logo-container img {
     border: 1px solid crimson;
+    width: 50px;
+}
+
+.logo-container p {
+    font-size: 40px;
 }
 
 .nav-items-container {
