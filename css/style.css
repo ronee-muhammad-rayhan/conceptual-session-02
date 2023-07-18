@@ -8,8 +8,20 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
+/* nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+
 .nav-container {
+    border: 1px solid red;
     min-height: 50px;
+    display: flex;
+    align-items: center;
+    /* max-width: 1400px; */
+    max-width: 1000px;
+    margin: 0 auto;
 }
 
 .logo-container {
@@ -33,5 +45,12 @@ body {
 }
 
 .nav-items-container {
+    border: 1px solid blue;
     width: 50%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-items-container a {
+    text-decoration: none;
 }
