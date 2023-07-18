@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Lato:ital,wght@0,400;0,700;1,400;1,700&family=Open+Sans:wght@400;700;800&display=swap');
 
 * {
     box-sizing: border-box;
@@ -96,4 +96,9 @@ nav {
     color: transparent;
     -webkit-background-clip: text;
     font-size: 50px;
+}
+
+.banner-text p {
+    font-size: 45px;
+    font-family: 'Dancing Script', cursive;
 }
