@@ -8,14 +8,11 @@ body {
     font-family: 'Lato', sans-serif;
 }
 
-/* nav {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-} */
+nav {
+    background-color: #9376e0;
+}
 
 .nav-container {
-    border: 1px solid red;
     min-height: 50px;
     display: flex;
     align-items: center;
@@ -45,7 +42,6 @@ body {
 }
 
 .nav-items-container {
-    border: 1px solid blue;
     width: 50%;
     display: flex;
     justify-content: space-between;
