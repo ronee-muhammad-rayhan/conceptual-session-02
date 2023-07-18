@@ -3,19 +3,16 @@
 }
 
 .nav-container {
-    border: 1px solid red;
     min-height: 50px;
 }
 
 .logo-container {
-    border: 1px solid green;
     display: flex;
     /* gap: 10px; */
     width: 50%;
 }
 
 .logo-container img {
-    border: 1px solid crimson;
     width: 50px;
     object-fit: cover;
     margin-right: 20px;
@@ -26,6 +23,5 @@
 }
 
 .nav-items-container {
-    border: 1px solid blue;
     width: 50%;
 }
