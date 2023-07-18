@@ -85,3 +85,7 @@ nav {
     border: 5px solid blue;
     width: 50%;
 }
+
+.banner-img img {
+    width: 100%;
+}
