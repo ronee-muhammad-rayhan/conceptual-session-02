@@ -51,6 +51,7 @@ nav {
 .nav-items-container a {
     text-decoration: none;
     font-size: 25px;
+    color: white;
 }
 
 .login-btn {
@@ -58,4 +59,5 @@ nav {
     padding: 10px 20px;
     font-weight: 700;
     border-radius: 5px;
+    color: black;
 }
