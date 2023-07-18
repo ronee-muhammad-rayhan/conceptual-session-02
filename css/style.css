@@ -66,3 +66,8 @@ nav {
     color: #9376e0;
     margin-left: 10px;
 }
+
+/* nav design ends here */
+.banner-container {
+    border: 1px solid red;
+}
