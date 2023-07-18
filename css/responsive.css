@@ -2,4 +2,8 @@
     .nav-container {
         flex-direction: column;
     }
+
+    .nav-items-container {
+        flex-direction: column;
+    }
 }
